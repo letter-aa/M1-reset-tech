@@ -1,0 +1,20 @@
+[M1Reset]
+bindedkey=X
+repeat=1
+e={c down}
+e=200 D
+e={c up}
+e={d down}
+e=200 D
+e={q down}
+e={q up}
+e={d up}
+e={c down}
+e=200 D
+e={c up}
+e=50 D
+e={w down}
+e=10 D
+e={q down}
+e={q up}
+e={w up}
